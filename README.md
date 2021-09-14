@@ -25,3 +25,5 @@ Potential address reputation checks
 4. Upon attempted exploitation of the ERC20 contract the dApp alerts the user to the activity and can initiate lockdown procedures
 
 **Pseudocode**
+
+![dAppSOC Example](dAppSOC.jpg)
